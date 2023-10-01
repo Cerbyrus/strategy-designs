@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-01T15:31:24.113Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="iQRyWyQ8CwcbIjjtg_cw" version="22.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-01T15:36:07.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="2lSW_l4L8rNPd-6jFjHS" version="22.0.0" type="github">
   <diagram name="Page-1" id="x8bxS60y4xOOfjvTRjnI">
     <mxGraphModel dx="2617" dy="1166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -297,6 +297,9 @@
         </mxCell>
         <mxCell id="Nu-wrRxlN7XL5gzu9_hK-4" value="Is est. price impact higher than threshold?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-265" y="1310" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Nu-wrRxlN7XL5gzu9_hK-5" value="&lt;div&gt;Interestingly, ~70% of the arb tx I have looked at are built by Titan Builder&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;font-size: 12px;&quot;&gt;Whereas with sandwich txs, the builder varies pretty evenly&lt;/span&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-280" y="1690" width="280" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
